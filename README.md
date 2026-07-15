@@ -81,6 +81,8 @@ The AI is capable of:
 
 The project also includes multiple AI difficulty levels, allowing enemy behaviour to scale naturally with the player's selected challenge.
 
+![Difficulty](Media/difficulty-select.png)
+
 This was my first complete implementation of an AI behaviour system using Behaviour Trees and EQS, and the experience became the technical foundation for later projects.
 
 ---
@@ -108,6 +110,8 @@ The timer system controls:
 
 # Aurora Shader
 
+![Aurora](Media/ref.png)
+
 One of the primary technical goals of this project was creating the aurora effect that defines the atmosphere of the game.
 
 A custom shader was developed to simulate the northern lights across the sky during the polar night.
@@ -119,6 +123,8 @@ Developing this shader introduced me to technical art workflows and real time ma
 ---
 
 # User Interface
+
+![UI](Media/game-play.png)
 
 The gameplay interface is implemented using Unreal Motion Graphics (UMG).
 
